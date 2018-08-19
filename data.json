@@ -1,0 +1,62 @@
+{
+	"details":{
+		"image":"image1.jpg",
+		"name":"harika",
+		"phoneno":"+91-8954623272",
+		"email":"harika8137@gmail.com",
+		"address":"vignan's nirula college,guntur."
+    },
+    "carrer":{
+    	"info":"to pursue a challenging carrer"
+    },
+    "education":[
+   {
+   	"qualification":"b.tech",
+   	"institute":"vignan's nirula college",
+    "year":"2016-2020",
+    "percentage":"98%"
+   },
+    {
+    	"qualification":"intermediate",
+    	"institute":"sri chaitanya",
+    	"year":"2014-2016",
+    	"percentage":"98%"
+    },
+    {
+    	"qualification":"ssc",
+    	"institute":"bhasyam",
+    	"year":"2014",
+    	"percentage":"98%"
+    }
+
+    ],
+    "skills":[{
+
+    	"title":"programming languages",
+    	"info":["c","java","python","c++","R"]
+
+    },
+    {
+    	"title":"database",
+    	"info":["oracle","mysql","sql"]
+
+    },
+    {
+    	"title":"operating systems",
+    	"info":["windows","linux","ubuntu"]
+    }
+
+ ],
+    "achievements":[
+     {
+     	"title":"got certified in IOT"
+     },
+     {
+     	"title":"got certified in moc"
+     },
+     {
+     	"title":"got certified by jkc"
+     }
+    ]
+}
+  
